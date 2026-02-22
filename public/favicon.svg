@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <!-- Pentagon grid (outer) -->
+  <polygon points="16,2 29.3,11.7 24.1,27.3 7.9,27.3 2.7,11.7" fill="none" stroke="#cbd5e1" stroke-width="0.8"/>
+  <!-- Pentagon grid (inner) -->
+  <polygon points="16,9 22.65,14.85 20.05,22.65 11.95,22.65 9.35,14.85" fill="none" stroke="#cbd5e1" stroke-width="0.5"/>
+  <!-- Radar data shape -->
+  <polygon points="16,4 26.6,13.3 22.7,26 9.5,22 4.5,11" fill="rgba(54,162,235,0.3)" stroke="rgba(54,162,235,1)" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- Data points -->
+  <circle cx="16" cy="4" r="1.5" fill="rgba(54,162,235,1)"/>
+  <circle cx="26.6" cy="13.3" r="1.5" fill="rgba(54,162,235,1)"/>
+  <circle cx="22.7" cy="26" r="1.5" fill="rgba(54,162,235,1)"/>
+  <circle cx="9.5" cy="22" r="1.5" fill="rgba(54,162,235,1)"/>
+  <circle cx="4.5" cy="11" r="1.5" fill="rgba(54,162,235,1)"/>
+</svg>
