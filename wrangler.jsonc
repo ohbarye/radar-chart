@@ -1,5 +1,6 @@
 {
   "name": "radar-chart",
+  "account_id": "e4b613d502d0847339eb8a96d4346512",
   "compatibility_date": "2025-01-01",
   "assets": {
     "not_found_handling": "single-page-application"
