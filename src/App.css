@@ -308,3 +308,26 @@
 .copy-btn:hover {
   background: var(--btn-bg-hover);
 }
+
+/* Footer */
+.footer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  margin-top: 2rem;
+  padding: 1rem 0;
+  font-size: 0.8rem;
+  color: var(--text-muted);
+}
+
+.footer a {
+  color: var(--text-muted);
+  transition: color 0.2s;
+  display: flex;
+  align-items: center;
+}
+
+.footer a:hover {
+  color: var(--text);
+}
