@@ -4,6 +4,10 @@ A web app for creating and sharing custom radar charts. Build your chart by addi
 
 **Live:** https://radar-chart.ohbarye.workers.dev/
 
+| Light | Dark |
+|:---:|:---:|
+| ![Light mode](docs/screenshot-light.png) | ![Dark mode](docs/screenshot-dark.png) |
+
 ## Features
 
 - Real-time radar chart editing with arbitrary items and values
